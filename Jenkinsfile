@@ -1,4 +1,4 @@
-Jenkinsfilehttps://github.com/KAVINESWAR-S/react-deploypipeline {
+pipeline {
     agent any
 
     stages {
